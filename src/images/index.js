@@ -1,0 +1,18 @@
+import logo from './logo.png'
+import home from './home.png'
+import cup from './cup.png'
+import coffee1 from './Coffee 1.svg'
+import first from './first.png'
+import second from './second.png'
+import list from './list.svg'
+import bean from './bean.svg'
+import picture1 from './Picture1.png'
+import picture2 from './Picture2.png'
+import picture3 from './Picture3.png'
+import video from './video.mp4'
+import big from './big.png'
+import small from './small.png'
+import check from './Check.svg'
+import elipse from './ellipse.svg'
+export { logo, home, cup, coffee1, first, second, list, bean, video, big, small, check, elipse }
+export default [picture1, picture2, picture3, picture1];

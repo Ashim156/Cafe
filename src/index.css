@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  /* .images {
+    background: linear-gradient(135deg, var(--primary), var(--secondary)),
+      url(./images/home.png) no-repeat center center / cover;
+  }*/
+}
+
+.images {
+  background: url(./images/home.png) no-repeat center center / cover;
+}
